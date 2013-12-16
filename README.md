@@ -1,8 +1,5 @@
-# AngularJS presentation
+# AngularJS Intro Hyderabad presentation
 
-A presentation on AngularJS I gave at the Barcamp Ruhr 2013 and at the
-AngularJS Meetup in Berlin.
+Original repo is from "Jan Varwig". All the credit goes to him for creating such awesome ready to use RevealJS presentation template project.
 
-Twitter: @agento
-
-Please fork responsibly
+Cloned from:   https://github.com/janv/angpres
